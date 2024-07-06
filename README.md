@@ -1,4 +1,4 @@
-# COSC 1436 - Programming Funadmentals I (C++)
+# COSC 1436 - Programming Fundamentals I (C++)
 
 This repository is where your classwork and lab assignments will go.
 
