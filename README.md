@@ -4,11 +4,11 @@ This repository is where your classwork and lab assignments will go.
 
 ## Set Up
 
-Refer to the [Setup](docs/setup.md) section for important information on how to properly set up your computer for this course.
+Refer to the [Setup](docs/setup) section for important information on how to properly set up your computer for this course.
 
 ## Getting Started
 
-Refer to the [Getting Started](docs/gettingstarted.md) guide for help on using the tools in this class.
+Refer to the [Getting Started](docs/gettingstarted) guide for help on using the tools in this class.
 
 ## Repository Layout
 
