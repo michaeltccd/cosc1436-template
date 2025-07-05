@@ -17,14 +17,6 @@ NOTE: If you already have a copy of Visual Studio (of the correct version) insta
 
 . Run the setup program
 . Select the components to install
-  * Option 1 - Use the `.vsconfig` file
-    ** Select the `More - Import Configuration` button
-    ** select the `.vsconfig` file in the root of your Github repository you created
-    ** Optionally select any additional components to install
-+
-image:visualstudio-import.png[Visual Studio Installer Import]
-+
-  * Option 2 - Manually select the components
     ** Desktop development with C++    
 +
 image:visualstudio-installer.png[Visual Studio Installer]
