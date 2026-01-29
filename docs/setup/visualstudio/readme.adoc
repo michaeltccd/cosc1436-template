@@ -92,5 +92,6 @@ CAUTION: Live Share is continually updated and may behave oddly during the semes
 
 == See Also
 
-link:/gettingstarted/readme.adoc[Getting Started] +
+link:/docs/gettingstarted/readme.adoc[Getting Started] +
 link:../readme.adoc[Setting Up]
+
